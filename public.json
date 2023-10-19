@@ -1,0 +1,91 @@
+{
+    "options": [
+      {
+        "id": 1,
+        "name": "Chicken",
+        "category": "chicken"
+      },
+      {
+        "id": 2,
+        "name": "Curry",
+        "category": "Curry"
+      },
+      {
+        "id": 3,
+        "name": "Rice",
+        "category": "Rice"
+      },
+      {
+        "id": 4,
+        "name": "Fish",
+        "category": "seafood"
+      },
+      {
+        "id": 5,
+        "name": "Drink",
+        "category": "drink"
+      },
+      {
+        "id": 6,
+        "name": "Ice creams",
+        "category": "dessert"
+      },
+      {
+        "id": 7,
+        "name": "Fruits",
+        "category": "fruits"
+      }
+    ],
+    "banner": [
+      {
+        "title": "Acqua barramundi",
+        "desc": "Indulge in the ocean's finest treasures with our delectable seafood selection. From succulent shrimp to tender crab and flaky fish, our dishes are a celebration of the sea's flavors. Dive into a world of freshness and taste the essence of the ocean with every bite. Explore our seafood delights today!",
+        "image": "seafood"
+      },
+      {
+        "title": "Red Velvet Cake",
+        "desc": "Savor the sweetness of life with our irresistible cakes and pastries. Our delightful confections are crafted with love and care, promising a symphony of flavors in every bite. From decadent chocolate cakes to delicate pastries, our desserts are a treat for the senses.",
+        "image": "cakefood"
+      },
+      {
+        "title": "Memoni biryani",
+        "desc": " Experience the aromatic masterpiece that is biryani! Our biryani dishes are a culinary journey through fragrant spices, tender meats, and perfectly cooked rice. Each bite is a symphony of flavors that transports you to the heart of Indian cuisine.",
+        "image": "biryani"
+      },
+      {
+        "title": "Cheese burger",
+        "desc": "  Savor the classic American delight - our burgers! Juicy, flavorful, and satisfying, our burgers are a culinary treat for your taste buds. Bite into perfection with every bite and relish the simplicity and boldness of this beloved comfort food. Join us for the ultimate burger experience today!' ",
+        "image": "burger"
+      },
+      {
+        "title": "Bombay rolls",
+        "desc": " Indulge in the delicious world of veg rolls! Our savory wraps are packed with fresh, flavorful vegetables and delectable sauces, creating a mouthwatering burst of taste in every bite.",
+        "image": "rools"
+      },
+      {
+        "title": "Cheese capsicum pizza",
+        "desc": "Elevate your pizza experience with our Capsicum Pizza! Our unique creation combines the vibrant flavors of fresh capsicum with perfectly melted cheese on a crispy crust, delivering a delightful and tangy twist to your favorite classic.",
+        "image": "pizza"
+      }
+    ],
+    "categories": [
+      {
+        "id": 7,
+        "title": "Butter Chicken",
+        "image": "cu4",
+        "price": 102,
+        "category": "chicken",
+        "value": 4
+      },
+       
+      {
+        "id": 49,
+        "title": "Red Bull",
+        "image": "d1",
+        "price": 150,
+        "category": "drink",
+        "value": 4
+      }
+    ]
+  }
+  
